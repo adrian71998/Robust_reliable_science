@@ -1,0 +1,44 @@
+---
+title: "How can Quarto documents help with reproducibility in research?"
+author: Adrian Stokkenes Tjomsland
+date: last-modified
+date-format: 25.09.2024
+csl: apa7.csl
+lang: en-GB
+format:
+  html: default
+  pdf:
+    documentclass: article
+    number-sections: true
+    keep-tex: true
+    papersize: A4
+    fig-pos: "H"
+bibliography: reproducibility.bib
+abstract: "A very short abstract."
+---
+
+## Introduction
+
+In the context of scientific research, reproducibility refers to the ability of an independent research team to achieve the same results using the same methods and data as the original study. 
+
+Vitenskapen går videre på grunnlag av pålitelige forskninger, og det å kunne reproodusere et dokument er et viktig er et svært viktig virkemiddel for å kunne oppnå pålotenlighet. I dette minipaperet skal vi se nærmere på hvordan Quatro dokumenter kan hjelpe med å reproduserbarhet i forskning.
+
+
+## Literature review
+
+Smart stuff from others
+
+## Discussion of the reseach question with some catching heading
+
+### How can Quarto documents help with reproducibility?
+
+### What problems remains and how can these be solved?
+
+- Package version
+- R version, library versions
+
+## Conclusion
+
+## References
+
+
